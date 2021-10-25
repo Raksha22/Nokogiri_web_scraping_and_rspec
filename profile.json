@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Charles Bassey",
+    "team": "Philadelphia 76ers",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/2021-07/Charles%20Bassey%20headshot.jpg"
+  },
+  {
+    "name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/54/2313.jpg"
+  },
+  {
+    "name": "Darren Collison",
+    "team": "Indiana Pacers",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/46/1634.jpg"
+  },
+  {
+    "name": "Rajon Rondo",
+    "team": "Memphis Grizzlies",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/2021-01/Rajon_Rondo.jpg"
+  },
+  {
+    "name": "Thaddeus Young",
+    "team": "San Antonio Spurs",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/2021-02/Thaddeus_Young.jpg"
+  },
+  {
+    "name": "Paul Millsap",
+    "team": "",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/2021-01/Paul_Millsap.jpg"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "team": "Brooklyn Nets",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/2021-01/DeAndre_Jordan.jpg"
+  },
+  {
+    "name": "Ben Simmons",
+    "team": "Philadelphia 76ers",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/2021-02/Ben_Simmons.jpg"
+  },
+  {
+    "name": "Bradley Beal",
+    "team": "Washington Wizards",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/62/1966.jpg"
+  },
+  {
+    "name": "Thomas Bryant",
+    "team": "Washington Wizards",
+    "photo_url": "https://www.nbcsportsedge.com/edge/sites/default/files/players/62/2825_0.jpg"
+  }
+]
